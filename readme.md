@@ -1,4 +1,4 @@
 # Generative Art
 ## A playground for creative coding
 
-- Canvas-sketch
+- Uses [Canvas-sketch](https://github.com/mattdesl/canvas-sketch)
